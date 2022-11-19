@@ -1,13 +1,13 @@
 a {
-    color:green;
+    color:chartreuse;
     font-weight:bold;
 }
 
-#google-link {
-    font-style:italic;
+#bing-link1 {
+    color:aqua; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-.bing-links {
+.bing-link3 {
     color:blue;
 }
 
