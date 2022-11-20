@@ -1,9 +1,9 @@
-# Git Add, Commit, Push
+# My First HTML Page.
 
 ## Description
 
 FRONT-END WEB DEVELOPMENT BOOTCAMP
 
-Lesson 01.2 
+Lesson 01.1 
 
-Activity: Git Add, Commit, Push.
+Activity: My First HTML Page.
